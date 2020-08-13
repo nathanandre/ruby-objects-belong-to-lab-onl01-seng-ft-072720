@@ -1,3 +1,4 @@
-class Author 
-  attr_accessible :name 
-end 
+
+class Author
+  attr_accessor :name
+end
